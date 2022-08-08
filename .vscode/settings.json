@@ -1,0 +1,11 @@
+{
+    "cSpell.enableFiletypes": [
+        "!django-txt",
+        "csv",
+        "django-html",
+        "excel",
+        "sql"
+    ],
+    "editor.fontSize": 10,
+    "files.autoSave": "onWindowChange"
+}
